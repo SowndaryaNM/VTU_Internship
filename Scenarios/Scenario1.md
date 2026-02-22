@@ -16,9 +16,7 @@ The CEO has made it clear:
 
 The organization needs a **centralized, automated Sales Intelligence System** that transforms raw transactional data into actionable insights and forward-looking forecasts.
 
-You have **2 weeks** to deliver a working internal analytics platform.
-
-Failure is not an option.
+You have to deliver a working internal analytics platform.
 
 ---
 
