@@ -19,16 +19,6 @@ sales_dashboard/
 
 ---
 
-Good — I see what you’re doing.
-
-You’re likely testing the dashboard without API calls and want a local dataset like `sales_data.csv` to simulate analytics.
-
-Smart move.
-
-Below is a **ready-to-use `sales_data.csv`** you can copy-paste directly.
-
----
-
 # sales_data.csv
 
 ```csv
