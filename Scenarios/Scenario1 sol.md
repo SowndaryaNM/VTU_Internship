@@ -19,7 +19,19 @@ sales_dashboard/
 
 ---
 
-##CSV file##
+Good — I see what you’re doing.
+
+You’re likely testing the dashboard without API calls and want a local dataset like `sales_data.csv` to simulate analytics.
+
+Smart move.
+
+Below is a **ready-to-use `sales_data.csv`** you can copy-paste directly.
+
+---
+
+# sales_data.csv
+
+```csv
 date,region,product,category,units_sold,unit_price
 2026-01-01,North,Laptop,Electronics,15,75000
 2026-01-01,South,Mobile,Electronics,40,20000
@@ -41,3 +53,8 @@ date,region,product,category,units_sold,unit_price
 2026-01-09,South,Headphones,Accessories,85,3200
 2026-01-10,East,Monitor,Electronics,22,15500
 2026-01-10,West,Keyboard,Accessories,95,1600
+```
+
+
+
+
